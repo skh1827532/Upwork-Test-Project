@@ -53,7 +53,7 @@ export default function Navbar() {
           })}
         </div>
         <div className="flex items-center gap-4">
-          <div className="border-[1px] border-[#EFF2F7] rounded-[4px] p-2">
+          <div className="border-[1px] border-[#EFF2F7] bg-white rounded-[4px] p-2">
             <EyeIcon className="h-6 w-6 text-black " />
           </div>
           <div>
